@@ -27,7 +27,18 @@ _Pendiente_
 
 ## 4 · Copias de seguridad
 
-_Pendiente_
+**Responsable:** Shomara Medina
+
+En esta sección estará:
+
+- Copia de seguridad en tiempo real.
+- Recuperación de datos
+- Gestión de los datos
+- Seguridad de los datos
+- Registro de los horarios de las copias de los datos
+- Sincronización de los datos
+
+Más información: [INCIBE: Protección y Respaldo de datos](https://www.incibe.es)
 
 ## 5 · Soporte a usuarios
 
