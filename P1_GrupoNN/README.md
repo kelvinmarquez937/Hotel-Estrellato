@@ -38,7 +38,7 @@ En esta sección estará:
 - Registro de los horarios de las copias de los datos
 - Sincronización de los datos
 
-Más información: [INCIBE: Protección y Respaldo de datos](https://www.incibe.es)
+Más información: [INCIBE: Protección y Respaldo de datos](https://www.hotelestrellato.es/copiasdeseguridad)
 
 ## 5 · Soporte a usuarios
 
