@@ -1,0 +1,1 @@
+Aqui va el inventario de cada seccion en XML y JSON (sprints 4 y 6)
