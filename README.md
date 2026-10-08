@@ -1,2 +1,2 @@
 # Hotel-Estrellato
-Trabajo grupal de Lenguaje de marcas.
+Trabajo grupal de Lenguaje de Marcas.
