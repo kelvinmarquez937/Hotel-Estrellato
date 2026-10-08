@@ -19,11 +19,30 @@ Problemas en red : [INCIBE: problemas con conexiones](https://www.hotelestrellat
 
 ## 2 · Servidores
 
-_Pendiente_
+**Responsable:** Cristopher Cabezas
+
+En esta sección estará:
+
+- los datos necesarios que se solicitarán y se guardarán de cada usuario
+- las leyes a las que están sujetas dichos datos recopilados
+- datos actualizados en todo momento
+
+Para comprobar si un servidor responde: `ping oracle.estrellato.local`
+
+Más información: [Documentación de Servidor de Estrellato](https://estrellato.com/server/docs)
 
 ## 3 · Seguridad
 
-_Pendiente_
+**Responsable:** Cristopher Cabezas
+
+En esta sección estará:
+
+- las normas de contraseñas válidas para poder darse de alta como usuario, tanto si eres cliente como si eres administrador.
+- las actualicaziones que irá recibiendo el sistema de seguridad.
+- las medidas de seguridad y medios para transacciones en la página web
+- las medidas de prevención y protección frente a ciberataques
+
+Más información: [INCIBE: seguridad en el comercio electrónico](https://www.incibe.es/sites/default/files/contenidos/guias/doc/Ciberseguridad_comercio_electronico_guia_empresas.pdf)
 
 ## 4 · Copias de seguridad
 
@@ -57,10 +76,10 @@ Mas información : [INCIBE: atención al cliente](https://www.hotelestrellato.es
 
 (Lo rellena el scrum master cada sprint.)
 
-| Sprint | Sección | Persona | Qué ha hecho |
-|--------|---------|---------|--------------|
-| 2 | Red | | |
-| 2 | Servidores | | |
-| 2 | Seguridad | | |
-| 2 | Copias de seguridad | | |
-| 2 | Soporte a usuarios | | |
+| Sprint | Sección            | Persona  | Qué ha hecho |
+|--------|--------------------|----------|--------------|
+| 2      |Red                 | Todos    | |
+| 2      |Servidores          | Bryandel |Su parte. |
+| 2      |Seguridad           |Cristopher|Su parte. |
+| 2      |Copias de seguridad |Shomara   |Su parte. |
+| 2      |Soporte a usuarios  |Kelvin    |Su parte. |
