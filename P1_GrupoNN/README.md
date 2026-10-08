@@ -38,11 +38,11 @@ Más información: [Documentación de Servidor de Estrellato](https://hotelestre
 En esta sección estará:
 
 - las normas de contraseñas válidas para poder darse de alta como usuario, tanto si eres cliente como si eres administrador.
-- las actualicaziones que irá recibiendo el sistema de seguridad.
+- las actualizaciones que irá recibiendo el sistema de seguridad.
 - las medidas de seguridad y medios para transacciones en la página web
 - las medidas de prevención y protección frente a ciberataques
 
-Más información: [INCIBE: seguridad en el comercio electrónico](https://www.incibe.es/sites/default/files/contenidos/guias/doc/Ciberseguridad_comercio_electronico_guia_empresas.pdf)
+Más información: [Seguridad: como mantener a salvo tus datos personales](https://hotelestrellato.com/seguridad/guias)
 
 ## 4 · Copias de seguridad
 
