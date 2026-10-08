@@ -31,7 +31,7 @@ _Pendiente_
 
 En esta sección estará:
 
-- Copia de seguridad en tiempo real.
+- Copia de seguridad en tiempo real
 - Recuperación de datos
 - Gestión de los datos
 - Seguridad de los datos
