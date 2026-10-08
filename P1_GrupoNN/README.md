@@ -1,6 +1,6 @@
 # CPD de Estrellato · Grupo NN
 
-Web del departamento de sistemas (CPD) de CAMBIA_EMPRESA.
+Web del departamento de sistemas (CPD) de Estrellato.
 Proyecto 1 · Lenguajes de marcas · 1.º DAW.
 
 Cada sección la hace una persona del grupo. Cada uno escribe solo su
