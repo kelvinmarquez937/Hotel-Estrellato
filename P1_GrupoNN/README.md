@@ -15,6 +15,7 @@ En esta sección estará:
 - Resolución de incidencias de conectividad
 - Configuración de la red WiFi
 
+Mas información : [INCIBE: soporte de red](https://www.hotelestrellato.es/red)
 ## 2 · Servidores
 
 _Pendiente_
@@ -36,7 +37,7 @@ En esta seccion estara:
   - Asistencias y informaciones
   - Servicios complementarios
 
-Mas informacion : [INCIBE: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
+Mas información : [INCIBE: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
 
 ---
 
