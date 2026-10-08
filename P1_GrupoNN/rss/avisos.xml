@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Avisos del CPD de estrellato</title>
-    <link>http://www.CAMBIA_EMPRESA.es/avisos.html</link>
-    <description>Avisos del departamento de sistemas de CAMBIA_EMPRESA</description>
+    <link>http://www.hotelestrellato.es/avisos.html</link>
+    <description>Avisos del departamento de sistemas del hotel Estrellato</description>
     <language>es</language>
 
     <!-- 1 · Redes · Hecho by bryandel -->
@@ -17,7 +17,7 @@
      <!-- 2 · Servidores · Cristopher Cabezas -->
     <item>
       <title>Servidor saturado</title>
-      <link>http://www.Estrellato.es/avisos.html</link>
+      <link>http://www.hotelestrellato.es/avisos.html</link>
       <description>Hay muchas solicitudes a la vez. Su solicitud está en cola.</description>
       <pubDate>Thu, 08 Oct 2026 18:00:00 +0200</pubDate>
     </item>
@@ -25,7 +25,7 @@
     <!-- 3 · Seguridad · Cristopher Cabezas -->
     <item>
       <title>Como evitar transacciones fraudulentas</title>
-      <link>http://www.Estrellato.es/avisos.html</link>
+      <link>http://www.hotelestrellato.es/avisos.html</link>
       <description>A la hora de hacer transacciones en nuestra página, siempre siga las instrucciones
 	   y no acceda a sitios web de terceros que no estén asociados con nuestra página oficial. En caso de dudas,
 	   siempre puede preguntarnos en nuestro apartado de atención al cliente.</description>
