@@ -15,7 +15,7 @@ En esta sección estará:
 - Resolución de incidencias de conectividad
 - Configuración de la red WiFi
 
-Problemas en red : [INCIBE: problemas con conexiones](https://www.hotelestrellato.es/conexionesmal)
+Problemas en red : [Red del hotel Estrellato: problemas con conexiones](https://www.hotelestrellato.es/conexionesmal)
 
 ## 2 · Servidores
 
@@ -57,7 +57,7 @@ En esta sección estará:
 - Registro de los horarios de las copias de los datos
 - Sincronización de los datos
 
-Más información: [INCIBE: Protección y Respaldo de datos](https://www.hotelestrellato.es/copiasdeseguridad)
+Más información: [Base de datos: Protección y Respaldo de datos](https://www.hotelestrellato.es/copiasdeseguridad)
 
 ## 5 · Soporte a usuarios
 
@@ -68,7 +68,7 @@ En esta seccion estara:
   - Asistencias y informaciones
   - Servicios complementarios
 
-Mas información : [INCIBE: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
+Mas información : [Soporte a usuarios: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
 
 ---
 
