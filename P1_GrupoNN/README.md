@@ -15,7 +15,8 @@ En esta sección estará:
 - Resolución de incidencias de conectividad
 - Configuración de la red WiFi
 
-Mas información : [INCIBE: soporte de red](https://www.hotelestrellato.es/red)
+Problemas en red : [INCIBE: problemas con conecciones](https://www.hotelestrellato.es/coneccionesmal)
+
 ## 2 · Servidores
 
 _Pendiente_
