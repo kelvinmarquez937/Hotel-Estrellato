@@ -8,7 +8,12 @@ apartado; el scrum master lo pega aquí.
 
 ## 1 · Red
 
-_Pendiente_
+**Administrador de Redes: Bryandel Olivares** 
+En esta sección estará:
+- Gestión de la red corporativa
+- Administración de servidores
+- Resolución de incidencias de conectividad
+- Configuración de la red WiFi
 
 ## 2 · Servidores
 
