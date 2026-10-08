@@ -31,10 +31,10 @@ _Pendiente_
 
 **Responsable:** Kelvin Marquez
 En esta seccion estara:  
--Gestion de reservas check-in/check-out
--Resolución de incidencias y reclamaciones
--Asistencias y informaciones
--Servicios complementarios
+  -Gestion de reservas check-in/check-out
+  -Resolución de incidencias y reclamaciones
+  -Asistencias y informaciones
+  -Servicios complementarios
 
 Mas informacion : [INCIBE: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
 
