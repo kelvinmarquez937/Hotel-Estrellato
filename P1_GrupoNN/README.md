@@ -31,7 +31,7 @@ En esta seccion estara:
 -Asistencias y informaciones
 -Servicios complementarios
 
-Mas informacion : [INCIBE: atención al cliente](https://www.estrellato.es/atencionalcliente)
+Mas informacion : [INCIBE: atención al cliente](https://www.hotelestrellato.es/atencionalcliente)
 
 ---
 
