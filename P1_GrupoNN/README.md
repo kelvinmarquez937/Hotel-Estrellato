@@ -29,7 +29,7 @@ En esta sección estará:
 
 Para comprobar si un servidor responde: `ping oracle.estrellato.local`
 
-Más información: [Documentación de Servidor de Estrellato](https://estrellato.com/server/docs)
+Más información: [Documentación de Servidor de Estrellato](https://hotelestrellato.com/server/docs)
 
 ## 3 · Seguridad
 
